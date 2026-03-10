@@ -16,19 +16,22 @@ Tersedia di [index.js](index.js)
 
 ## Deskripsi Program 
 INI FUNGSINYA UNTUK MEMBUAT BUTTON/TOMBOL
+
 '''
-<p>
+<!-- <p>
     Huruf: <span id="hf">0</span>,
     huruf besar: <span id="hb"> 0</span>
     huruf kecil: <span id="hk">0</span>
-</p>
-<div>
+</p> -->
+<!-- <div>
     <button id="huruf-besar">Besarkan</button>
     <button id="huruf-kecil">Kecilkan</button>
     <button id="huruf-paragraf">Paragrafkan</button>
-</div>
+</div> -->
 '''
+
 INI UNTUK MENAMBAHKAN FONT YANG DI SOAL DAN MEMBUAT SEMUA ITEM ADA DI TENGAH
+
 '''
 body{
   font-family: "Inconsolata", monospace;
@@ -39,4 +42,5 @@ body{
   justify-content: center;
   min-height: 100vh;
 }
+
 '''
