@@ -1,22 +1,22 @@
-Tugas Pendahuluan 03: Pemrograman GUI dengan HTML dan CSS
-Soal
+# Tugas Pendahuluan 03: Pemrograman GUI dengan HTML dan 
 
+## Soal
 Buatlah tata letak laman yang kamu buat berada di tengah seperti di bawah ini, dan juga ubah font-nya dengan Inconsolata dari Google Fonts.
 
-Kode sumber
+## Kode sumber
 
-Tersedia di [index.js]
+Tersedia di [index.js](index.js)
 
-[index.html]
+[index.html](index.html)
 
-[index.css]
+[index.css](index.css)
 
-Output
+## Output
 ![alt text](image.png)
 
-Deskripsi Program 
+## Deskripsi Program 
 INI FUNGSINYA UNTUK MEMBUAT BUTTON/TOMBOL
-
+'''
 <p>
     Huruf: <span id="hf">0</span>,
     huruf besar: <span id="hb"> 0</span>
@@ -27,9 +27,9 @@ INI FUNGSINYA UNTUK MEMBUAT BUTTON/TOMBOL
     <button id="huruf-kecil">Kecilkan</button>
     <button id="huruf-paragraf">Paragrafkan</button>
 </div>
-
+'''
 INI UNTUK MENAMBAHKAN FONT YANG DI SOAL DAN MEMBUAT SEMUA ITEM ADA DI TENGAH
-
+'''
 body{
   font-family: "Inconsolata", monospace;
   font-weight: 400;
@@ -39,3 +39,4 @@ body{
   justify-content: center;
   min-height: 100vh;
 }
+'''
