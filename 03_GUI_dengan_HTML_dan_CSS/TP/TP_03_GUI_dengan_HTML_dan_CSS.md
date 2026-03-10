@@ -16,6 +16,7 @@ Output
 
 Deskripsi Program 
 INI FUNGSINYA UNTUK MEMBUAT BUTTON/TOMBOL
+
 <p>
     Huruf: <span id="hf">0</span>,
     huruf besar: <span id="hb"> 0</span>
@@ -28,6 +29,7 @@ INI FUNGSINYA UNTUK MEMBUAT BUTTON/TOMBOL
 </div>
 
 INI UNTUK MENAMBAHKAN FONT YANG DI SOAL DAN MEMBUAT SEMUA ITEM ADA DI TENGAH
+
 body{
   font-family: "Inconsolata", monospace;
   font-weight: 400;
