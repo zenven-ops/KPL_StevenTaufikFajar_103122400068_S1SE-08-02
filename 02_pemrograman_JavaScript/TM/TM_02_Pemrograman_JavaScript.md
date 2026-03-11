@@ -5,14 +5,13 @@ Buatlah sebuah fungsi bernama fizzBuzz yang menerima input larik (array) dan men
 
 ## Kode sumber
 
-Tersedia di [test.js](./test.js)
-tm.js (./tm.js)
+Tersedia di [test.js](test.js)
+[tm.js] (tm.js)
 
 ## Output
 ![alt text](image.png)
 
 ## Deskripsi Program
-
 Program ini berisi fungsi fizzBuzz yang menerima input berupa array dan menghasilkan output berupa string. Fungsi ini kemudian diekspor menggunakan module.exports agar dapat diuji menggunakan test.js.
 
 Pada fungsi fizzBuzz terdapat validasi input:
