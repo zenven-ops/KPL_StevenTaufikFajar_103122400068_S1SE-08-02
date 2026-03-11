@@ -1,12 +1,15 @@
 # Tugas Pendahuluan 02: Pemrograman JavaScript
+Nama: Steven Taufik Fajar
+NIM: 103122400068
+Kelas: SE-08-02
 
 ## Soal
 Buatlah sebuah fungsi bernama fizzBuzz yang menerima input larik (array) dan mengembalikan deretan bilangan dan "Fizz" untuk kelipatan 2, "Buzz" untuk kelipatan 7, dan "FizzBuzz" untuk kelipatan 14. Beri nama berkas program sebagai tm.js dan taruh di direktori TM.
 
 ## Kode sumber
 
-Tersedia di [test.js] 
-[tm.js]
+Tersedia di [test.js] (./test.js)
+[tm.js] (./tm.js)
 
 ## Output
 ![alt text](image.png)
