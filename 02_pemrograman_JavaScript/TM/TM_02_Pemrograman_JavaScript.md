@@ -5,8 +5,8 @@ Buatlah sebuah fungsi bernama fizzBuzz yang menerima input larik (array) dan men
 
 ## Kode sumber
 
-Tersedia di [test.js](test.js)
-[tm.js] (tm.js)
+Tersedia di [test.js] 
+[tm.js]
 
 ## Output
 ![alt text](image.png)
