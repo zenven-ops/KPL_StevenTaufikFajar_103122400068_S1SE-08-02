@@ -1,0 +1,45 @@
+/* *{
+    border: solid black;
+    padding: 10px;
+} */
+/* Preseden CSS;
+!important
+#id
+class
+element/tag */
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+}
+
+p > span {
+    color: blue ; /* atau juga bisa pakai kode hex-nya, #FF7F50 */
+    font-weight: bold;
+}
+
+p > span{
+    color: darkorchid;
+}
+
+button{
+    display: block;
+}
+
+/* @media screen and (max-width: 500px){
+    p > span {
+        color: green;
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width: 300px){
+    p > span {
+        color: yellow;
+        font-weight: bold;
+    }
+} */
