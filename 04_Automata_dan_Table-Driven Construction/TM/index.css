@@ -1,0 +1,40 @@
+.kotak-input{
+    display: block;
+    resize: none;
+}
+body{
+  font-family: "Inconsolata", monospace;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+p > span{
+    font-weight: bold;
+}
+.dark-mode {
+    background-color: #171b25;
+    color: #EBECF7;
+}
+.dark-mode .kotak-input{
+    background-color: #2e3443;
+    color: white;
+}
+.dark-mode button {
+    background-color: #29ddcc;
+    border: none;
+}
+.Stepia-mode {
+    background-color: #F4ECD8;
+    color: #5B4636;
+}
+.Stepia-mode .kotak-input{
+    background-color: white;
+    color: #5B4636;
+}
+.Stepia-mode button {
+    background-color: #29ddcc;
+    border: none;
+}
