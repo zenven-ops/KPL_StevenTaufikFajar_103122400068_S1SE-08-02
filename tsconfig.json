@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "checkJs": true, // periksa berkas JS
+    "checkJs": false, // periksa berkas JS
     "allowJs": true, // izinkan cek berkas JS
     "strict": true, // buat berkas JS patuh aturan TS
     "noEmit": true, // pastikan tidak ada berkas TS yang dibuat

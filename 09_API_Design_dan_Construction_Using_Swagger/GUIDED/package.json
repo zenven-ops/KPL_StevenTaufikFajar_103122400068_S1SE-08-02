@@ -1,0 +1,14 @@
+{
+  "name": "praktikum-kpl",
+  "version": "1.0.0",
+  "description": "Praktikum KPL API Design",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
